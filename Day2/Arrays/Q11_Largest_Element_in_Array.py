@@ -2,10 +2,10 @@
 
 class Solution:
     def largest(self, arr):
-        max = 0
+        large = arr[0]
         for i in arr:
-            if i >= max:
-                max = i
+            if i >= large:
+                large = i
           
-        return max  
+        return large  
         
