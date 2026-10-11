@@ -1,6 +1,6 @@
 # 🚀 DSA Journey — Day 02
 
-**Date:** 10–11 October 2026  
+**Date:** 10 October 2026  
 **Programming Language:** Python 🐍  
 **Practice Platforms:** GeeksforGeeks & LeetCode  
 **Questions Covered:** 7 (Q8–Q14)  
